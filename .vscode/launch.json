@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - questao11",
+            "request": "launch",
+            "mainClass": "questao11",
+            "projectName": "atividadesPoo_df0883d7"
+        }
+    ]
+}
